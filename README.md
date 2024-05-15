@@ -12,9 +12,10 @@ This project created by use of Python, HTML, CSS and Java Script.
 * **Html Files**: For beautiful frontend.
 
 ## Outputs
-Home Page:
+* **Home Page:**
 ![Screenshot 2024-05-15 145235](https://github.com/Kanika-1404/Basic-Calculator/assets/140299493/40c0ee9c-9701-420f-8a10-9855cabc5a8f)
-Video Downloader
+
+* **Video Downloader:**
 ![Screenshot 2024-05-15 145316](https://github.com/Kanika-1404/Basic-Calculator/assets/140299493/cbb76ecd-2f1b-47a5-be00-3efed67a4dab)
 ![Screenshot 2024-05-15 145404](https://github.com/Kanika-1404/Basic-Calculator/assets/140299493/d634d6d7-c63f-4ba4-ad51-3c90a9f38168)
 Audio Downloader
