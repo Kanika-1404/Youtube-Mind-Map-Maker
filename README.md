@@ -20,7 +20,9 @@ This project created by use of Python, HTML, CSS and Java Script.
   
 ![Screenshot 2024-05-15 145316](https://github.com/Kanika-1404/Basic-Calculator/assets/140299493/cbb76ecd-2f1b-47a5-be00-3efed67a4dab)
 ![Screenshot 2024-05-15 145404](https://github.com/Kanika-1404/Basic-Calculator/assets/140299493/d634d6d7-c63f-4ba4-ad51-3c90a9f38168)
-Audio Downloader
+
+* **Audio Downloader:**
+
 ![Screenshot 2024-05-15 145500](https://github.com/Kanika-1404/Basic-Calculator/assets/140299493/781fa848-c12b-4595-a97c-6f07363a2082)
 ![Screenshot 2024-05-15 145515](https://github.com/Kanika-1404/Basic-Calculator/assets/140299493/1c0e0171-ed4b-47ac-9f50-4719d570f38c)
 
